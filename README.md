@@ -1,22 +1,18 @@
-# Olá, bem-vindo(a) ao meu GitHub
+<div align="center">
+
+# Olá, bem-vindo(a) ao meu perfil! 👋
 
 Estudante de **Programação Orientada a Objetos** com foco em **C#** e **Visual Studio**, além de desenvolvedor apaixonado por **jogos 2D com Unity**. 
 
-Atualmente, estou em busca da minha primeira oportunidade como **Desenvolvedor C# .NET** ou **Desenvolvedor de Jogos (Unity)**. Meu objetivo é aplicar meus conhecimentos técnicos e minha vontade de aprender para crescer profissionalmente, contribuindo de forma significativa em projetos desafiadores.
-
-- Aprimorando habilidades em arquitetura de código e lógica de jogos.
-- Experiência prática com **C#**, **Unity** e ambiente **.NET**.
-- Aberto a novos desafios e colaborações!
+🚀 Atualmente, estou em busca da minha primeira oportunidade como **Desenvolvedor C# .NET** ou **Desenvolvedor de Jogos (Unity)**. Meu objetivo é aplicar meus conhecimentos técnicos e minha vontade de aprender para crescer profissionalmente, contribuindo de forma significativa em projetos desafiadores.
 
 ---
 
 ## 🛠 Tecnologias e Ferramentas
 
 ### Linguagens de Programação:
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="csharp logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="50" alt="unity logo"  />
-</div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="csharp logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="50" alt="unity logo"  />
 
 ### Banco de Dados:
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -34,4 +30,4 @@ Atualmente, estou em busca da minha primeira oportunidade como **Desenvolvedor C
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
----
+</div>
