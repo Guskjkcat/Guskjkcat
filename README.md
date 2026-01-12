@@ -21,7 +21,6 @@ Interesses: Dev .NET | Dev Game | Educação Corporativa | Estrategia
 
 ### Ambientes de Desenvolvimento (IDE):
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### Outras Tecnologias:
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
