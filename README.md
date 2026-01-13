@@ -33,18 +33,26 @@ Interesses: Dev .NET | Dev Game | Educação Corporativa | Estrategia
 
 ---
 
+## 📊 GitHub Estatísticas
+
 <div align="center">
-  <h2>📊 GitHub Estatísticas</h2>
+  <table>
+    <tr>
+      <td align="center">
+        <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Carlos-CGS&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" alt="Estatísticas GitHub"/>
+      </td>
+      <td align="center">
+        <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Carlos-CGS&layout=compact&langs_count=7&theme=radical&hide_border=true&cache_seconds=1800" alt="Linguagens mais usadas"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guskjkcat&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guskjkcat&layout=compact&theme=tokyonight&langs_count=6" />
-</div>
-
-<div align="center">
-  <p><strong>Visitantes</strong></p>
-  <img src="https://komarev.com/ghpvc/?username=Guskjkcat&color=ff69b4&style=flat-square&label=VISUALIZACOES" alt="Visitor Count" />
+<p align="center"><b>Visitantes</b></p>  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Carlos-CGS&color=dc143c&style=flat-square&label=Visualizações" alt="Contador de Visitantes"/>
+</p>
 </div>
 
 ---
