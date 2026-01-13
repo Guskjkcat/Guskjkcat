@@ -30,3 +30,19 @@ Interesses: Dev .NET | Dev Game | Educação Corporativa | Estrategia
 ![GitHub Copilot](https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
 </div>
+
+---
+
+## 📊 GitHub Estatísticas
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guskjkcat&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guskjkcat&layout=compact&theme=tokyonight&langs_count=6" />
+</div>
+
+<div align="center">
+  <p><strong>Visitantes</strong></p>
+  <img src="https://profile-counter.glitch.me/Guskjkcat/count.svg" alt="Visitor Count" />
+</div>
+
+---
