@@ -33,7 +33,9 @@ Interesses: Dev .NET | Dev Game | Educação Corporativa | Estrategia
 
 ---
 
-## 📊 GitHub Estatísticas
+<div align="center">
+  <h2>📊 GitHub Estatísticas</h2>
+</div>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guskjkcat&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
@@ -42,7 +44,7 @@ Interesses: Dev .NET | Dev Game | Educação Corporativa | Estrategia
 
 <div align="center">
   <p><strong>Visitantes</strong></p>
-  <img src="https://profile-counter.glitch.me/Guskjkcat/count.svg" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=Guskjkcat&color=ff69b4&style=flat-square&label=VISUALIZACOES" alt="Visitor Count" />
 </div>
 
 ---
