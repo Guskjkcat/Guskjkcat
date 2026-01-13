@@ -8,6 +8,7 @@ Atualmente, estou em busca da minha primeira oportunidade como **Desenvolvedor C
 
 Interesses: Dev .NET | Dev Game | Educação Corporativa | Estrategia
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-carlos--cgs-0077B5?style=social&logo=linkedin)](https://www.linkedin.com/in/gustavo-diniz-4a673426a)
 ---
 
 ## 🛠 Tecnologias e Ferramentas
